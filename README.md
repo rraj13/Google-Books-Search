@@ -9,9 +9,9 @@ Please see the Heroku live link below as well as a screenshot of the application
 
 Live link: https://fathomless-journey-73583.herokuapp.com/
 
-![alt text](Book-search-screenshot1.png "Book Search Screenshot 1");
-![alt text](Book-search-screenshot2.png "Book Search Screenshot 2");
-![alt text](Book-search-screenshot3.png "Book Search Screenshot 3");
+![alt text](Book-search-screenshot1.png "Book Search Screenshot 1")
+![alt text](Book-search-screenshot2.png "Book Search Screenshot 2")
+![alt text](Book-search-screenshot3.png "Book Search Screenshot 3")
 
 Please read on for more information!
 
