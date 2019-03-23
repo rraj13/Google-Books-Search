@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Link } from 'reqct-router-dom';
+import { Link } from 'react-router-dom';
 import Navbar from '../components/Navbar/Navbar';
 import Jumbotron from '../components/Jumbotron/Jumbotron';
 import SavedCard from '../components/SavedCard/SavedCard';
